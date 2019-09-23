@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c pythonw3 D:\MyCode\Python\aygxyit.py",0
